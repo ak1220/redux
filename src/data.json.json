@@ -1,0 +1,228 @@
+[{
+   
+    
+                 "name":"Jhon",
+               "email":"jhon123@gmail.com",
+               "job-title":"Manager",
+               "Phone":"1234567890",
+               "Birth-Date":"01/01/1980",
+               "Place":"Mumbai"
+       },
+       
+     {
+               "id": 12342,
+               "name":"Rita",
+               "email":"rita56@gmail.com",
+               "job-title":"HR",
+               "Phone":"7845027813",
+               "Birth-Date":"5/01/1982",
+               "Place":"Banglore"
+       
+           },
+         
+          {
+                "id": 12343,
+               "name":"Hary",
+               "email":"hary45@gmail.com",
+               "job-title":"Engineer",
+               "Phone":"8956230174",
+               "Birth-Date":"15/02/1983",
+               "Place":"Canada"
+           },
+        
+         {
+               "id": 12344,
+               "name":"Shyam",
+               "email":"shyam12@gmail.com",
+               "job-title":"IT consultant",
+               "Phone":"9835649251",
+               "Birth-Date":"20/12/1986",
+               "Place":"America"
+           },
+       
+          {
+                "id": 12345,
+               "name":"Shreya",
+               "email":"shrey10@gmail.com",
+               "job-title":"Security Engineer",
+               "Phone":"8210729463",
+               "Birth-Date":"09/11/1981",
+               "Place":"Banglore"
+           },
+         
+         {
+               "id": 12346,
+               "name":"Marry",
+               "email":"marry29@gmail.com",
+               "job-title":"Software Developer",
+               "Phone":"1329774538",
+               "Birth-Date":"5/01/1982",
+               "Place":"America"
+           },
+           
+        {
+            "id": 12347,
+               "name":"Ashith",
+               "email":"ashh@gmail.com",
+               "job-title":"Data Scientist",
+               "Phone":"8935126924",
+               "Birth-Date":"23/09/1980",
+               "Place":"Banglore"
+           },
+       
+           
+        { "id": 12348,
+               "name":"Ram",
+               "email":"ramkumar@gmail.com",
+               "job-title":"IT Architect",
+               "Phone":"5634908765",
+               "Birth-Date":"12/06/1980",
+               "Place":"Chennai"
+           },
+         {
+            "id": 12349,
+               "name":"Nischitha",
+               "email":"nischitha@gmail.com",
+               "job-title":"HR",
+               "Phone":"7583512494",
+               "Birth-Date":"09/03/1992",
+               "Place":"Hyderabad"
+           },
+        
+           {
+            "id": 12350,
+               "name":"Kishan",
+               "email":"kishan@gmail.com",
+               "job-title":"Cyber Security Analayst",
+               "Phone":"4567903425",
+               "Birth-Date":"5/01/1982",
+               "Place":"Manglore"
+           },
+     {
+            "id": 12351,
+               "name":"Gopinath Singh",
+               "email":"gopinathsingh@gmail.com",
+               "job-title":"Web Developer",
+               "Phone":"6092681028",
+               "Birth-Date":"14/07/1982",
+               "Place":"Gujarat"
+           },
+           
+           {
+            "id": 12353,
+               "name":"Shruthi",
+               "email":"shruthi1323@gmail.com",
+               "job-title":"Database administrator",
+               "Phone":"4098765432",
+               "Birth-Date":"12/10/1988",
+               "Place":"Haryana"
+           },
+          
+           {
+    
+    
+               "name":"Bhavin",
+               "email":"bhavin45@gmail.com",
+               "job-title":"Technical writer",
+               "Phone":"908765434",
+               "Birth-Date":"20/05/1986",
+               "Place":"America"
+           },
+           {
+               "name":"Sandesh",
+               "email":"sandesh123@gmail.com",
+               "job-title":"Administrator",
+               "Phone":"908763429",
+               "Birth-Date":"28/06/1990",
+               "Place":"Gujarat"
+           },
+         
+         
+          {
+          
+               "name":"Vishal",
+               "email":"vishal@gmail.com",
+               "job-title":"Auditors",
+               "Phone":"7835672018",
+               "Birth-Date":"23/06/1982",
+               "Place":"Kerala"
+           },
+          
+           {
+               "name":"Monisha",
+               "email":"monisha23@gmail.com",
+               "job-title":"Accountant",
+               "Phone":"7247672018",
+               "Birth-Date":"17/02/1988",
+               "Place":"Ranchi"
+           },
+       
+        {"name":"Andy",
+               "email":"andyk@gmail.com",
+               "job-title":"Receptionist",
+               "Phone":"9835670018",
+               "Birth-Date":"30/09/1990",
+               "Place":"Banglore"
+           },
+           
+           {
+               "name":"Shreejith",
+               "email":"shreejith00@gmail.com",
+               "job-title":"Auditors",
+               "Phone":"8835672188",
+               "Birth-Date":"13/09/1882",
+               "Place":"Kerala"
+           },
+           
+           {
+               "name":"Hitha",
+               "email":"hitha5678@gmail.com",
+               "job-title":"Manager",
+               "Phone":"9826410099",
+               "Birth-Date":"24/11/1980",
+               "Place":"Mumbai"
+           },
+    
+               {
+               "name":"Hithesh",
+               "email":"hithu78@gmail.com",
+               "job-title":"Supervisor",
+               "Phone":"7888990001",
+               "Birth-Date":"11/11/1981",
+               "Place":"Kolkata"
+           },
+    
+           {
+               "name":"Jeevan",
+               "email":"jeevannn@gmail.com",
+               "job-title":"Web Designer",
+               "Phone":"9955223399",
+               "Birth-Date":"29/12/1986","Place":"Punjab"
+           },
+          
+           {
+               "name":"Amar",
+               "email":"amar44@gmail.com",
+               "job-title":"Web Developer",
+               "Phone":"7834226611",
+               "Birth-Date":"13/12/1980","Place":"Hyderabad"
+           },
+         
+         {
+               "name":"Ajith",
+               "email":"ajijiju@gmail.com",
+               "job-title":"IT",
+               "Phone":"8965342680",
+               "Birth-Date":"18/02/1984",
+               "Place":"Assam"
+           } ,
+           {
+            "name":"Asha",
+            "email":"ashah@gmail.com",
+            "job-title":"Professor",
+            "Phone":"1290463829",
+            "Birth-Date":"28/09/1983",
+            "Place":"Gujarat"
+        } 
+    
+        ]
