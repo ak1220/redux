@@ -1,1 +1,0 @@
-export const SEARCH_EMPLOYEE = 'SEARCH_EMPLOYEE'
